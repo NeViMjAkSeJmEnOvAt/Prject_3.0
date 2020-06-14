@@ -1,0 +1,103 @@
+/*header{
+    background-color: red!important;
+}*/
+h1{
+    font-size: 100px !important;
+    color:white;
+}
+p{
+    font-size: 15px;
+    color:white;
+}
+b{
+    font-size: 18px;
+    color:#b30000;
+}
+th{
+    font-size: 18px;
+    color:white;
+}
+td{
+    font-size: 15px;
+    color:white;
+}
+a{
+    font-size: 15px;
+    color: silver !important;
+}
+h2{
+    font-size: 40px!important;  
+    color:white;
+}
+.mestaStaty{
+    font-size: 13px;
+    color: black;
+}
+.small{
+    font-size: 10px!important;  
+    color:red;
+}
+.endcss{
+    font-size: 10px!important;
+    color: red;
+    background-color: black;
+
+}
+#panel, #vladcove{
+    padding: 5px;
+    text-align: center;
+    background-color: #6699ff;
+    border: solid 1px black;
+  }
+  #info {
+    padding: 5px;
+    text-align: center;
+    background-color: #6699ff;
+    border: solid 1px darkgrey;
+  }
+  
+  #panel {
+    padding: 10px;
+    display: none;
+  }
+  #info {
+    padding: 5px;
+    display: none;
+  }
+  #Manitoba:hover{
+      fill: lightcoral;
+  }
+  #Nunavut:hover{
+      fill:lightcoral;
+  }
+  #Ontario:hover{
+      fill:lightcoral;
+  }
+  #Quebec:hover{
+      fill:lightcoral;
+  }
+  #NewALab:hover{
+      fill:lightcoral;
+  }
+  #Saskatchewan:hover{
+      fill:lightcoral;
+  }
+  #Alberta:hover{
+      fill:lightcoral;
+  }
+  #BritColum:hover{
+      fill:lightcoral;
+  }
+  #Yukon:hover{
+      fill:lightcoral;
+  }
+  #nwt:hover{
+      fill:lightcoral;
+  }
+  #textTab, #imgTab, #MapaTab{
+    padding: 5px;
+    text-align: center;
+    background-color: #6699ff;
+    border: solid 1px black;
+    
+  }
